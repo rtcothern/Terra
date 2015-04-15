@@ -1,0 +1,7 @@
+*.ini
+Build
+Content/StarterContent/
+Saved/
+Intermediate/
+*.uproject
+Terra/
