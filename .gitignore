@@ -5,3 +5,6 @@ Saved/
 Intermediate/
 *.uproject
 Terra/
+Content/Vectorfields/Maps/VectorFields.umap
+Content/FirstPersonBP/Maps/AITestMap.umap
+Content/FirstPersonBP/Maps/GameplayMap.umap
