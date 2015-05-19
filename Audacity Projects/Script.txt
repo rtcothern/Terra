@@ -1,0 +1,3 @@
+Android Lines:
+    1) Greetings. I am unit D 1 5 1 3. I am here to learn! Please focus on a point in the air for several seconds until you hear a confirmation sound.
+    2) All data captured. Establishing 4th echelon connection using R12 Echo Protocol
